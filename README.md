@@ -1,6 +1,6 @@
 # Using this code for extraction of ROI tiles from .ndpi images
 
-1. `cd /Users/gbatch/Documents/projects/current/patch_extraction_scripts_andrea`
+1. `cd /Users/gbatch/Documents/projects/current/DART-wo-data/tile-generation-scripts-andrea`
 2. `conda activate standard-dl`
 3. `python data/export_roi_tiles.py histology_samples --annotations_dirname wsi_annotations`
 
